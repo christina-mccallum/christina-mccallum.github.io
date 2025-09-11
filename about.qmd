@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Hi! My name is Christin and I'm a student in MDS-CL.
+Hi! My name is Christina and I'm a student in MDS-CL.
