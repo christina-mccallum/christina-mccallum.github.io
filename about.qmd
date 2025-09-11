@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+Hi! My name is Christin and I'm a student in MDS-CL.
