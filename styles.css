@@ -1,1 +1,12 @@
 /* css styles */
+body {
+  font-family: "Inter", sans-serif;
+}
+
+h1, h2, h3 {
+  color: #2c3e50;
+}
+
+.navbar {
+  background-color: #1a1a2e !important;
+}
