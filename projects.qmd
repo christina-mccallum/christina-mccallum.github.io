@@ -27,7 +27,7 @@ Developed a RAG system to answer students' sexual health-related questions with 
 
 [Chat with S.U.E.](https://question.canadiansuedesociety.com/){.project-link}
 
-[Learn more about our project](https://medium.com/@christinajenmccallum/s-u-e-sexuality-understanding-education-a-chatbot-s-u-e-table-for-all-ages-c647dc859ed4){.project-link}
+[View project details](https://medium.com/@christinajenmccallum/s-u-e-sexuality-understanding-education-a-chatbot-s-u-e-table-for-all-ages-c647dc859ed4){.project-link}
 :::
 
 ::: {.project-card}

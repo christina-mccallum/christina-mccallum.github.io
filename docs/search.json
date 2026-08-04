@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Christina McCallum is a recent graduate of the Master of Data Science in Computational Linguistics program at the University of British Columbia. Prior to the program, she worked in book publishing and tech, and holds a Master of Arts in Literature. As a language enthusiast, she’s worked on diverse writing, editorial, and CL-related projects. In her spare time, she enjoys reading contemporary fiction, doing silly crafts, and strolling along the beach."
+    "text": "Christina McCallum is a recent graduate of the Master of Data Science in Computational Linguistics (MDS-CL) program at the University of British Columbia. Prior to the program, she worked in book publishing and tech, and holds a Master of Arts in Literature. As a language enthusiast, she’s worked on diverse writing, editorial, and CL-related projects. In her spare time, she enjoys reading contemporary fiction, doing silly crafts, and strolling along the beach."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Check out some of my past work here.\n\n\n\nMembership Inference Attack\nIdentified member data in training sets using statistical and linguistic methods emerging in latest research.\n\nPythonColab GPU\n\nView repository\n\n\nA Chatbot S.U.E.-table for All Ages\nDeveloped a RAG system to answer students’ sexual health-related questions with grade-specific answer styles and selectable tones of voice.\n\nPythonJavaScript\n\nChat with S.U.E.\nLearn more about our project\n\n\nTsunami Prediction Datathon\nBuilt ML model that predicted tsunami occurrences based on seismic data.\n\nPythonScikit-Learn\n\nView project details"
+    "text": "Check out some of my past work here.\n\n\n\nMembership Inference Attack\nIdentified member data in training sets using statistical and linguistic methods emerging in latest research.\n\nPythonColab GPU\n\nView repository\n\n\nA Chatbot S.U.E.-table for All Ages\nDeveloped a RAG system to answer students’ sexual health-related questions with grade-specific answer styles and selectable tones of voice.\n\nPythonJavaScript\n\nChat with S.U.E.\nView project details\n\n\nTsunami Prediction Datathon\nBuilt ML model that predicted tsunami occurrences based on seismic data.\n\nPythonScikit-Learn\n\nView project details"
   },
   {
     "objectID": "index.html",
