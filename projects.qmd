@@ -1,0 +1,44 @@
+---
+title: "Projects"
+---
+
+<p class="eyebrow">Check out some of my past work here.</p>
+
+::: {.project-grid}
+
+::: {.project-card}
+### Membership Inference Attack
+Identified member data in training sets using statistical and linguistic methods emerging in latest research.
+
+<div class="project-tags">
+<span>Python</span><span>Colab GPU</span>
+</div>
+
+[View repository](https://github.com/christina-mccallum/membership_inference_attack){.project-link}
+:::
+
+::: {.project-card}
+### A Chatbot S.U.E.-table for All Ages
+Developed a RAG system to answer students' sexual health-related questions with grade-specific answer styles and selectable tones of voice.
+
+<div class="project-tags">
+<span>Python</span><span>JavaScript</span>
+</div>
+
+[Chat with S.U.E.](https://question.canadiansuedesociety.com/){.project-link}
+
+[Learn more about our project](https://medium.com/@christinajenmccallum/s-u-e-sexuality-understanding-education-a-chatbot-s-u-e-table-for-all-ages-c647dc859ed4){.project-link}
+:::
+
+::: {.project-card}
+### Tsunami Prediction Datathon
+Built ML model that predicted tsunami occurrences based on seismic data.
+
+<div class="project-tags">
+<span>Python</span><span>Scikit-Learn</span>
+</div>
+
+[View project details](https://www.kaggle.com/competitions/mds-datathon){.project-link}
+:::
+
+:::

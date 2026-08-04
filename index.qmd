@@ -2,6 +2,6 @@
 title: "Christina's Git Website"
 ---
 
-This is a Quarto website.
+Welcome to my website, where you can learn a bit about me and my past projects!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<span style="font-size: 0.6rem;"> Please note that this website was designed with the help of Claude Sonnet 5. </span>
